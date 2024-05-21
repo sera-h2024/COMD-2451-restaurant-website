@@ -1,0 +1,24 @@
+.alice-regular {
+    font-family: "Alice", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    font-family: "Alice", serif;
+    background-color: black;
+    color: white;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family:serif; 
+    letter-spacing:5px;
+}
+
+#hero {
+    color: white;
+}
+
+#course {
+    margin-bottom: 10px;
+}
